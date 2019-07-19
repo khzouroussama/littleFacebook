@@ -1,2 +1,3 @@
-# littleFacebook
-a java small social network using SWING
+
+#LittleFacebook
+a JAVA small social network GUI application using SWING
